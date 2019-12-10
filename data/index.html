@@ -2,14 +2,17 @@
 <html>
   <head>
     <title>ESP32 Entfernungsmesser</title>
+    <meta http-equiv="refresh" content="3" >
   </head>
   <body>
 	<canvas id='lidar'
-	        data-width='100'
-			data-height='200'
-			data-type='linear-gauge'
+	        data-width='1000'
+			data-height='1000'
+			data-type='radial-gauge'
 			data-title='Entfernung'
-			data-units='&#8451;'
+			data-units='cm'
+			data-max-value="800"
+			data-major-ticks="0,50,100,150 ð,200,250,300,350,400 ð,450,500,550,600,650 ð,700,750,800"
 			data-value='%ENTFERNUNG%'>
 	</canvas>
        <script src='gauge.min.js'>
