@@ -14,8 +14,8 @@ Folgende Bibliotheken werden in der Arduino IDE benötigt
 
 [ESPasyncwebserver](https://github.com/me-no-dev/ESPAsyncWebServer)
 
-Zusätzliche wird das 
-[ESP32fs-Plugin in Version 1.0] (https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/download/1.0/ESP32FS-1.0.zip)
+Zusätzlich wird das 
+[ESP32fs-Plugin in Version 1.0](https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/download/1.0/ESP32FS-1.0.zip)
  benötigt
 
 
