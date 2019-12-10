@@ -1,11 +1,11 @@
-# Laserentfernungsmesser
+# Laserentfernungsmesser Make 6/19
 
 ![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
 
 Maker Media GmbH
 *** 
 
-##LIDAR mit ESP32 
+## LIDAR mit ESP32 
 
 Folgende Bibliotheken werden in der Arduino IDE benötigt
 
