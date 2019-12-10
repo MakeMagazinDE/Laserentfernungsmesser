@@ -7,6 +7,8 @@ Maker Media GmbH
 
 ## LIDAR mit ESP32 
 
+Ob zum konkreten Messen einer Entfernung oder zur Überwachung eines Abstands: Mit unserem webbasierten Laserentfernungsmesser ermitteln man zentimetergenau Distanzen und zeigt sie auf PCs, Smartphones oder Tablets an. 
+
 Folgende Bibliotheken werden in der Arduino IDE benötigt
 
 [LIDARLite_Arduino_Library](https://github.com/garmin/LIDARLite_v3_Arduino_Library/archive/master.zip)
